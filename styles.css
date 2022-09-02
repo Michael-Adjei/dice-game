@@ -1,0 +1,43 @@
+body{
+  background-color: #B2C8DF;
+}
+
+.container{
+  width: 70%;
+  margin: auto;
+  text-align:  center;
+}
+
+h1{
+  font-family: 'Rubik Marker Hatch', cursive;
+  font-size: 5rem;
+  color: #6E85B7;
+  letter-spacing: 3px;
+  line-height: 5px;
+}
+
+p{
+  font-family: 'Anton', sans-serif;
+  font-size: 2rem;
+  letter-spacing: 1px
+}
+
+.players{
+  display: inline-block;
+  padding: 2rem;
+}
+
+img {
+  width: 90%;
+}
+
+footer{
+  text-align: center;
+
+}
+
+ footer p{
+   color: #6E85B7;
+   font-size: 1rem;
+   font-family: 'Rubik Marker Hatch', cursive;
+ }
